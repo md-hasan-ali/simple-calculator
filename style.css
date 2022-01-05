@@ -1,0 +1,25 @@
+.form-area {
+    width: 87%;
+    margin: 0 auto;
+    background: #eaeaea;
+    padding: 36px;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+}
+
+.form-area input {
+    width: 100%;
+    margin-bottom: 9px;
+    text-align: right;
+}
+.single-line input {
+    font-size: 18px;
+    width: 60px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.last-line input {
+    width: 130px;
+    font-weight: 700;
+    font-size: 18px;
+}
